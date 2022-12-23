@@ -1,8 +1,9 @@
-# Socials Module 18 Challenge
+# Socials 
+Module 18 Challenge
 NoSQL Challenge: Social Network API
 
 ## Description
-In this application we were tasked with building a database with MongoDb, and then demonstrating the data relationships through insomnia.
+In this application we were tasked with building an API with MongoDb, and then demonstrating the data relationships through insomnia.
 
 ## User Story
 User Story 
